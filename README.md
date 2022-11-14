@@ -1,6 +1,6 @@
 # github-workshop
 
-Primeiros passos com Git e GitHub
+Repositório criado no workshop do GitHub na CPBR14
 
 [Slides do Workshop](https://www.canva.com/design/DAE6UgU_rBo/7reeTT8sGjzXR4w1FAafHA/view?utm_content=DAE6UgU_rBo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
